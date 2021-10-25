@@ -10,6 +10,6 @@
     "https": "^1.0.0",
     "request": "^2.65.0",
     "ssl-root-cas": "^1.2.5",
-    "url-parse": "^1.0.5"
+    "url-parse": "^1.5.2"
   }
 }
